@@ -12,16 +12,13 @@ const email = "mailto:arav.1tb@gmail.com"
 // Social Links
 
 const twitter = "https://tregsthedev.link/twitter"
-const social2 = ""
-const social2 = ""
-const social2 = ""
-const social2 = ""
-const social2 = ""
-const social2 = ""
-const social2 = ""
-const social2 = ""
-const social2 = ""
-
+const instagram = ""
+const tiktok = ""
+const twitter2 = ""
+const website = ""
+const simple = ""
+const spotify = ""
+const link = ""
 
 
 
@@ -47,9 +44,9 @@ const iconforname1 = ""
 
 // Common Font Aweasoem Icons
 
- /*fa-twitter
-/*fa-slack
-/*fa-telegram
-/*fa-email
-/*fa-inbox
-/*fa-pintrest
+ /* fa-twitter
+/* fa-slack
+/* fa-telegram
+/* fa-email
+/* fa-inbox
+/* fa-pintrest
