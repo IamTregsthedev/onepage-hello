@@ -41,12 +41,3 @@ const iconforname1 = ""
 
 
 
-
-// Common Font Aweasoem Icons
-
- /* fa-twitter
-/* fa-slack
-/* fa-telegram
-/* fa-email
-/* fa-inbox
-/* fa-pintrest
