@@ -9,6 +9,10 @@ const lastname = "Narula" // Last Name
 const email = "mailto:arav.1tb@gmail.com"
 const from = "github/pages"
 
+// Basic Information 2.0
+
+let names = [name: "arav", lastname: "narula"]
+
 
 // Social Links
 
