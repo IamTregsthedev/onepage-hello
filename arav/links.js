@@ -7,6 +7,7 @@
 const name = "Arav"   // Enter your First Name
 const lastname = "Narula" // Last Name
 const email = "mailto:arav.1tb@gmail.com"
+const from = "github/pages"
 
 
 // Social Links
