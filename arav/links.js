@@ -1,4 +1,5 @@
 // This is where you will edit your links.
+// View a full guide here: https://tregsthedev.link/mybistvideo or tregsthedev.link/onepage
 
 
 
